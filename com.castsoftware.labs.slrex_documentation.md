@@ -120,38 +120,38 @@ N\/A
 ## Sizing indicators
 
 List of new sizing indicators
-ID   | Description
----:|---------------
-1000200|anCV
-1000201|SlRE
-1000202|SlREi
-1000205|Security anCV
-1000206|Security SlRE
-1000207|Security SlREi
-1000210|Efficiency anCV
-1000211|Efficiency SlRE
-1000212|Efficiency SlREi
-1000215|Reliability anCV
-1000216|Reliability SlRE
-1000217|Reliability SlREi
-1000220|Changeability anCV
-1000221|Changeability SlRE
-1000222|Changeability SlREi
-1000225|Transferability anCV
-1000226|Transferability SlRE
-1000227|Transferability SlREi
-1000230|ASCSM anCV
-1000231|ASCSM SlRE
-1000232|ASCSM SlREi
-1000235|ASCPEM anCV
-1000236|ASCPEM SlRE
-1000237|ASCPEM SlREi
-1000240|ASCRM anCV
-1000241|ASCRM SlRE
-1000242|ASCRM SlREi
-1000245|ASCMM anCV
-1000246|ASCMM SlRE
-1000247|ASCMM SlREi
+ID | Description
+---|---------------
+1000200 | anCV
+1000201 | SlRE
+1000202 | SlREi
+1000205 | Security anCV
+1000206 | Security SlRE
+1000207 | Security SlREi
+1000210 | Efficiency anCV
+1000211 | Efficiency SlRE
+1000212 | Efficiency SlREi
+1000215 | Reliability anCV
+1000216 | Reliability SlRE
+1000217 | Reliability SlREi
+1000220 | Changeability anCV
+1000221 | Changeability SlRE
+1000222 | Changeability SlREi
+1000225 | Transferability anCV
+1000226 | Transferability SlRE
+1000227 | Transferability SlREi
+1000230 | ASCSM anCV
+1000231 | ASCSM SlRE
+1000232 | ASCSM SlREi
+1000235 | ASCPEM anCV
+1000236 | ASCPEM SlRE
+1000237 | ASCPEM SlREi
+1000240 | ASCRM anCV
+1000241 | ASCRM SlRE
+1000242 | ASCRM SlREi
+1000245 | ASCMM anCV
+1000246 | ASCMM SlRE
+1000247 | ASCMM SlREi
 
 with:
 * anCV = adjusted number of Critical Violations
