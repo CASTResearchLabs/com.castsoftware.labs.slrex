@@ -120,6 +120,7 @@ N\/A
 ## Sizing indicators
 
 List of new sizing indicators
+
 ID | Description
 ---|---------------
 1000200 | anCV
