@@ -120,8 +120,8 @@ N\/A
 ## Sizing indicators
 
 List of new sizing indicators
-| ID | Description |
---------------------
+ID   | Description
+---:|---------------
 1000200|anCV
 1000201|SlRE
 1000202|SlREi
@@ -180,7 +180,7 @@ anCV of 10 means
 They are basically a scaled down value of RPF
 
 Bin number | Bin RPF max. | Bin RPF min. | Bin weight
------------------------------------------------------
+----------:|-------------:|-------------:|----------:
 0 | - | - | 1
 1 | 2 | 1 | 2
 2 | 6 | 3 | 4
